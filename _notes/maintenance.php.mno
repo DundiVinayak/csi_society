@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_acc_charges" value="name:account_id;datatype:int,name:month;datatype:string,name:year;datatype:year,name:rent;datatype:int,name:service_charge;datatype:int,name:e_gen_charge;datatype:int,name:water;datatype:int,name:event_charge;datatype:int,name:comments;datatype:blob" />
+</info>

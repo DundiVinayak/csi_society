@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_view_comp" value="name:complaint_id;datatype:int,name:title;datatype:string,name:complaint;datatype:blob,name:time;datatype:datetime" />
+	<infoitem key="UD_view_comp_title" value="name:title;datatype:string" />
+</info>
